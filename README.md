@@ -65,4 +65,4 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone [https://github.com/km2911test/km2911test.github.io.git](https://github.com/km2911test/km2911test.github.io.git)
+   https://github.com/km2911TEST/-K-Farm-Tales-of-the-Ancient-Valley.git
